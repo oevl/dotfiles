@@ -1,0 +1,20 @@
+colors:
+  body: none
+  date: none
+  tags: none
+  title: none
+default_hour: 9
+default_minute: 0
+editor: '/data/data/com.termux/files/usr/bin/vim'
+encrypt: false
+highlight: true
+indent_character: '|'
+journals:
+  default: /data/data/com.termux/files/home/Projects/Shared/personal/journal/jrnl/journal.txt
+  computers: /data/data/com.termux/files/home/Projects/Shared/computers/notes.txt
+linewrap: 79
+tagsymbols: '#'
+template: false
+timeformat: '%Y-%m-%d %H:%M'
+version: v2.8.1
+
